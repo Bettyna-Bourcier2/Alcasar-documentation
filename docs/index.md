@@ -9,4 +9,4 @@ navigateur tente de joindre un site Internet en HTTP. Cette page est présentée
 allemand, hollandais, français et portugais) en fonction de la configuration de leur navigateur. Tans qu'ils n'ont
 pas satisfait au processus d'authentification, aucune trame réseau ne peut traverser ALCASAR.
 
-![Alt text](../images/img.png)
+![Alt text](images/img.png)
