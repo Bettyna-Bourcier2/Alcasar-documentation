@@ -1,5 +1,5 @@
 site_name: ALCASAR
 pages:
-- Introduction: introduction.md
+- Introduction: index.md
 - Exploitation: exploitation.md
 theme: readthedocs
