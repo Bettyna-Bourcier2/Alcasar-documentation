@@ -3,3 +3,4 @@ pages:
 - Introduction: index.md
 - Exploitation: exploitation.md
 theme: readthedocs
+repo_url: https://github.com/Bettyna-Bourcier/Alcasar-documentation
