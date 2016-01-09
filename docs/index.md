@@ -10,3 +10,8 @@ allemand, hollandais, français et portugais) en fonction de la configuration de
 pas satisfait au processus d'authentification, aucune trame réseau ne peut traverser ALCASAR.
 
 ![Alt text](images/img.png)
+
+La page d'accueil du portail est consultable à partir de n'importe quel équipement situé sur le réseau de consultation. Elle est située à l'URL http://alcasar (ou
+http://alcasar.localdomain). Elle permet aux usagers de se connecter, de se déconnecter, de changer leur mot de passe et d'intégrer le certificat de sécurité dans leur navigateur.
+Cette page permet aux administrateurs d'accéder au centre de gestion graphique « ACC » (ALCASAR Control Center)
+en cliquant sur la roue crantée située en bas à droite de la page (ou via le lien : https://alcasar.localdomain/acc).
