@@ -2,5 +2,8 @@ site_name: ALCASAR
 pages:
 - Exploitation:
   - Introduction : index.md
+  - Configuration réseau : configuration_reseau.md
 theme: readthedocs
 repo_url: https://github.com/Bettyna-Bourcier/Alcasar-documentation
+markdown-extensions :
+    - admonition
