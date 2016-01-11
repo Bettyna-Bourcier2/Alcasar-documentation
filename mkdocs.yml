@@ -1,7 +1,6 @@
 site_name: ALCASAR
 pages:
-- Introduction: index.md
 - Exploitation:
-  - Introduction : introduction.md
+  - Introduction : index.md
 theme: readthedocs
 repo_url: https://github.com/Bettyna-Bourcier/Alcasar-documentation
