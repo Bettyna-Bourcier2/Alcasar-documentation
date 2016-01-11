@@ -8,6 +8,7 @@ Les équipements de consultation peuvent être connectés sur le réseau de cons
 Le plan d'adressage IP du réseau de consultation est défini lors de l'installation du portail.
 
 Exemple pour un réseau de consultation en classe C (proposé par défaut) :
+
 - Adresse IP du réseau : 192.168.182.0/24 (masque de réseau : 255.255.255.0) ;
 - Nombre maximum d'équipements : 253 ;
 - Adresse IP de la carte eth1 d'ALCASAR : 192.168.182.1/24 ;
