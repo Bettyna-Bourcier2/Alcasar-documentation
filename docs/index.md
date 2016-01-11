@@ -20,5 +20,5 @@ Ce centre de gestion est exploitable en deux langues (anglais et français) via 
 
 ![Alt text](images/acc.png)
 
-!!! note "Attention"
+!!! note "Note"
     Le détecteur d’intrusion intégré à ALCASAR interdira toute tentatives de nouvelle connexion pendant 3’, s’il a détecté 3 échecs consécutifs de connexion au centre de gestion.
