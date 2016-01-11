@@ -24,14 +24,24 @@ Exemple pour un réseau de consultation en classe C (proposé par défaut) :
 
 Le menu « système » + « réseau » vous permet de visualiser les paramètres réseau d'ALCASAR.
 
-### Configuration IP
+## Configuration IP
 
 ![Alt text](images/configuration_ip.png)
 
 Ces paramètres ne sont actuellement pas modifiables directement via l'interface graphique. Vous pouvez néanmoins les changer via le mode console en éditant le fichier `/usr/local/etc/alcasar.conf`. Une fois vos modifications effectuées, activez-les en lançant la commande `alcasar-conf.sh -apply`.
 
-### Serveur DHCP
+## Serveur DHCP
 
 ![Alt text](images/serveur_dhcp.png)
 
 Le serveur DHCP (Dynamic Host Control Protocol) fournit de manière dynamique les paramètres réseau aux équipements de consultation. Vous pouvez réserver des adresses IP pour vos équipements exigeant un adressage fixe (ou statique) comme vos serveurs, vos imprimantes ou vos points d'accès WIFI (cf. §2.2.d).ALCASAR doit être le seul routeur et le serveur DHCP sur le réseau de consultation. Dans le cas contraire, assurez-vous de bien maîtriser l'architecture multi-serveur DHCP (cf. §8.6.a concernant la cohabitation avec un serveur A.D. ©).
+
+# Paramètres des équipements de consultation
+
+## Configuration des équipements des utilisateurs
+
+Une fiche explicative à destination des usagers est disponible à la fin de ce document. Les équipements des usagers doivent être configuré en **mode DHCP**. Ils ne nécessitent qu'un simple navigateur acceptant le langage **« JavaScript »** ainsi que les fenêtres **« pop-up »**. Pour être intercepté par ALCASAR, la **page de démarrage par défaut** de ce navigateur doit être un site WEB Internet accessible en **HTTP**. Les paramètres de **proxy** doivent être **désactivés**.
+
+## Ajout d'un favoris / marque-page (bookmark)
+
+Dans les navigateurs, il peut être pratique d'ajouter un favori pointant vers la page d'accueil d'ALCASAR ([http://alcasar.fr](http://alcasar.fr)) afin de permettre aux usagers de changer leur mot de passe, de se déconnecter ou d'intégrer le certificat de sécurité d'ALCASAR.
