@@ -13,6 +13,7 @@ Exemple pour un réseau de consultation en classe C (proposé par défaut) :
 - Nombre maximum d'équipements : 253 ;
 - Adresse IP de la carte eth1 d'ALCASAR : 192.168.182.1/24 ;
 - Paramètres des équipements :
+
   - adresses IP disponibles : de 192.168.182.3 à 192.168.182.254 (statiques ou dynamiques) ;
   - adresses du serveur DNS : 192.168.182.1 (adresse IP d'ALCASAR) ;
   - suffixe DNS : localdomain (ce suffixe doit être renseigné pour les équipements en adressage statique) ;
