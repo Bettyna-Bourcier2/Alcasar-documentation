@@ -14,11 +14,11 @@ Exemple pour un réseau de consultation en classe C (proposé par défaut) :
 - Adresse IP de la carte eth1 d'ALCASAR : 192.168.182.1/24 ;
 - Paramètres des équipements :
 
-  - adresses IP disponibles : de 192.168.182.3 à 192.168.182.254 (statiques ou dynamiques) ;
-  - adresses du serveur DNS : 192.168.182.1 (adresse IP d'ALCASAR) ;
-  - suffixe DNS : localdomain (ce suffixe doit être renseigné pour les équipements en adressage statique) ;
-  - adresse du routeur par défaut (default gateway) : 192.168.182.1 (adresse IP d'ALCASAR) ;
-  - masque de réseau : 255.255.255.0
+    - adresses IP disponibles : de 192.168.182.3 à 192.168.182.254 (statiques ou dynamiques) ;
+    - adresses du serveur DNS : 192.168.182.1 (adresse IP d'ALCASAR) ;
+    - suffixe DNS : localdomain (ce suffixe doit être renseigné pour les équipements en adressage statique) ;
+    - adresse du routeur par défaut (default gateway) : 192.168.182.1 (adresse IP d'ALCASAR) ;
+    - masque de réseau : 255.255.255.0
 
 # Paramètres d'ALCASAR
 
