@@ -47,4 +47,7 @@ Une fiche explicative à destination des usagers est disponible à la fin de ce 
 
 ### Ajout d'un favoris / marque-page (bookmark)
 
-Dans les navigateurs, il peut être pratique d'ajouter un favori pointant vers la page d'accueil d'ALCASAR ([http://alcasar.fr](http://alcasar.fr)) afin de permettre aux usagers de changer leur mot de passe, de se déconnecter ou d'intégrer le certificat de sécurité d'ALCASAR.
+Dans les navigateurs, il peut être pratique d'ajouter un favori pointant vers la page d'accueil d'test. ([http://alcasar.fr](http://alcasar.fr)) afin de permettre aux usagers de changer leur mot de passe, de se déconnecter ou d'intégrer le certificat de sécurité d'ALCASAR.
+
+
+Test d'ajout
